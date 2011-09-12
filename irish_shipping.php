@@ -1,6 +1,6 @@
 <?php
 /*
-Name: Irish Shipping Module
+Name: Irish Shipping Module with Fastway Integration
 Module URI: http://abandon.ie/
 Description: This is a module made for Jigoshop that calculates Irish An Post Shipping rates. You can find info on these rates at http://www.anpost.ie/AnPost/PostalRates/Standard+Post.htm
 Author: Abban Dunne.
